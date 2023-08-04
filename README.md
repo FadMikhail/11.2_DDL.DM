@@ -31,7 +31,6 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 ![image](https://github.com/FadMikhail/11.2_DDL.DM/assets/132131230/bc6fc4e8-f6d7-4424-839c-8e405509dd9b)
 
-*Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
 
 
 ### Задание 2
@@ -41,4 +40,6 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 customer         | customer_id
 ```
 
-*Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
+![image](https://github.com/FadMikhail/11.2_DDL.DM/assets/132131230/f48011d9-ca3a-4fcf-bd66-6f605f087736)
+
+
